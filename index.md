@@ -19,3 +19,8 @@
   * German
   * French
   
+# Events and workshops
+
+| Name | Times |
+|---|---|
+| Hackathon | 6-8 hrs length, date TBD |

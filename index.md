@@ -18,4 +18,8 @@
   * English
   * German
   * French
+* Other Subjects
+  * Economics
+  * Pedagogy
+  
   
